@@ -20,3 +20,9 @@ A simple and efficient Python automation script designed to process CSV data, cl
 No external dependencies required.
 
 ## 📂 Project Structure
+python-data-automation/
+│
+├── data_processor.py      # Main Python script
+├── input_data.csv         # Sample input data file
+├── processed_data.json    # Output file generated after running the script
+└── README.md              # Project documentation
